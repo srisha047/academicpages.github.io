@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.Sc. in Entomology**, Agriculture and Forestry University, Chitwan, Nepal, 2024  
+  * Thesis: *Ovipositional Preference and Management of Pulse Beetle Using Edible Oils in Chitwan, Nepal*  
 
+* **B.Sc. in Agriculture Science**, Agriculture and Forestry University, Chitwan, Nepal, 2021  
+  * Thesis: *Assessment of Knowledge, Perception, and Practice of Pesticide Use by Vegetable Growers in Lalitpur, Nepal*  
+  
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -34,12 +36,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* * Data Analysis & Interpretation 
+  * SPSS, Stata, R-Studio, Python  
+  * Kobo Toolbox for data collection 
+
+* Geospatial Analysis  
+  * ArcGIS for mapping and spatial data visualization
 
 Publications
 ======
